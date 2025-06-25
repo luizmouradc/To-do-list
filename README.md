@@ -1,12 +1,86 @@
-# React + Vite
+# Lista de Tarefas — Projeto Final da disciplina Tecnologias de Desenvolvimento de Interface Gráfica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação **To-Do List** desenvolvida em React com Redux, como parte do **Projeto Final** da disciplina **Tecnologias de Desenvolvimento de Interface Gráfica**, no curso de Ciência da Computação da **UEPB**.
 
-Currently, two official plugins are available:
+O objetivo foi criar uma aplicação web interativa e responsiva, com uma interface simples e clara (UX), que permita gerenciar tarefas de forma eficiente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Funcionalidades
+
+- Adicionar uma nova tarefa  
+- Editar o nome e a descrição de uma tarefa  
+- Marcar uma tarefa como concluída, em progresso ou pendente  
+- Excluir uma tarefa (com confirmação)  
+- Filtrar tarefas (Todas, Concluídas, Em Progresso, A Fazer)  
+- Modal para edição de tarefas com animação  
+- Notificação (toast) ao salvar alterações  
+- Suporte a modo claro/escuro (Dark/Light)  
+- Interface totalmente responsiva  
+
+
+
+## Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)  
+- [Redux Toolkit](https://redux-toolkit.js.org/)  
+- CSS Puro (sem frameworks de UI)  
+- HTML5  
+
+
+
+## Site Online
+
+[Acesse a aplicação aqui](https://nome-do-seu-projeto.vercel.app)
+
+
+
+## Como Executar o Projeto
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repo.git
+```
+
+2. Instale as dependências:
+
+```bash
+npm install
+```
+
+3. Execute o projeto em modo de desenvolvimento:
+
+```bash
+npm start
+```
+
+4. Acesse no navegador:
+
+```
+http://localhost:5173/
+```
+
+
+
+## Screenshots
+
+### Tela Inicial (Desktop)
+
+![Image](https://github.com/user-attachments/assets/9d0bfdfb-f609-48e9-8e05-e60e3ee18e88)
+
+### Modo Dark (Smartphone)
+
+![Image](https://github.com/user-attachments/assets/13290eb2-4296-49ad-9391-bac8e58b9676)
+
+
+
+## Desenvolvido por
+
+**Luiz Inácio Moura da Costa**  
+Aluno da **UEPB**  
+Curso: Ciência da Computação  
+Disciplina: Tecnologias de Desenvolvimento de Interface Gráfica  
+Ano: 2025
+
+
