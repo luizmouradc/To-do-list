@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux';
 import AdicionarTarefas from './components/AdicionarTarefas';
 import ListaDeTarefas from './components/ListaDeTarefas';
 import Header from './components/Header';
-import '/Projetos/to-do-list/src/App.css';
+import './App.css';
 
 function App() {
   const tarefas = useSelector(state => state.tarefas.tarefas);
