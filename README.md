@@ -40,7 +40,7 @@ O objetivo foi criar uma aplicação web interativa e responsiva, com uma interf
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/luizmouradc/To-do-list.git
 ```
 
 2. Instale as dependências:
@@ -52,7 +52,7 @@ npm install
 3. Execute o projeto em modo de desenvolvimento:
 
 ```bash
-npm start
+npm run dev
 ```
 
 4. Acesse no navegador:
@@ -60,7 +60,6 @@ npm start
 ```
 http://localhost:5173/
 ```
-
 
 
 ## Screenshots
