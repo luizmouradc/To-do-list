@@ -1,9 +1,6 @@
 # Lista de Tarefas — Projeto Final da disciplina Tecnologias de Desenvolvimento de Interface Gráfica
 
-Este projeto é uma aplicação **To-Do List** desenvolvida em React com Redux, como parte do **Projeto Final** da disciplina **Tecnologias de Desenvolvimento de Interface Gráfica**, no curso de Ciência da Computação da **UEPB**.
-
-O objetivo foi criar uma aplicação web interativa e responsiva, com uma interface simples e clara (UX), que permita gerenciar tarefas de forma eficiente.
-
+Este projeto é uma aplicação **To-Do List** desenvolvida em React com Redux. O objetivo foi criar uma aplicação web interativa e responsiva, com uma interface simples e clara (UX), que permita gerenciar tarefas de forma eficiente.
 
 
 ## Funcionalidades
@@ -72,14 +69,5 @@ http://localhost:5173/
 
 ![Image](https://github.com/user-attachments/assets/13290eb2-4296-49ad-9391-bac8e58b9676)
 
-
-
-## Desenvolvido por
-
-**Luiz Inácio Moura da Costa**  
-Aluno da **UEPB**  
-Curso: Ciência da Computação  
-Disciplina: Tecnologias de Desenvolvimento de Interface Gráfica  
-Ano: 2025
 
 
