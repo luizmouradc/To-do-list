@@ -1,4 +1,4 @@
-# Lista de Tarefas — Projeto Final da disciplina Tecnologias de Desenvolvimento de Interface Gráfica
+# Lista de Tarefas 
 
 Este projeto é uma aplicação **To-Do List** desenvolvida em React com Redux. O objetivo foi criar uma aplicação web interativa e responsiva, com uma interface simples e clara (UX), que permita gerenciar tarefas de forma eficiente.
 
