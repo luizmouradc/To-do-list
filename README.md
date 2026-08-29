@@ -1,73 +1,122 @@
-# Lista de Tarefas 
+<div align="center">
 
-Este projeto é uma aplicação **To-Do List** desenvolvida em React com Redux. O objetivo foi criar uma aplicação web interativa e responsiva, com uma interface simples e clara (UX), que permita gerenciar tarefas de forma eficiente.
+# Lista de Tarefas
 
+Uma aplicação para organizar tarefas, acompanhar o andamento e manter tudo mais fácil de visualizar.
+
+### [Acessar projeto](https://to-do-list-wine-eight-18.vercel.app)
+
+<br>
+
+</div>
+
+---
+
+## Sobre o projeto
+
+A **Lista de Tarefas** é uma aplicação que desenvolvi em React para praticar gerenciamento de estado utilizando Redux.
+
+A ideia do projeto é permitir que o usuário organize suas tarefas de forma simples, podendo adicionar, editar, excluir e acompanhar o status de cada uma.
+
+Além da parte funcional, também trabalhei na responsividade da interface, modo claro e escuro, filtros e alguns detalhes de interação para deixar o uso mais agradável.
+
+---
 
 ## Funcionalidades
 
-- Adicionar uma nova tarefa  
-- Editar o nome e a descrição de uma tarefa  
-- Marcar uma tarefa como concluída, em progresso ou pendente  
-- Excluir uma tarefa (com confirmação)  
-- Filtrar tarefas (Todas, Concluídas, Em Progresso, A Fazer)  
-- Modal para edição de tarefas com animação  
-- Notificação (toast) ao salvar alterações  
-- Suporte a modo claro/escuro (Dark/Light)  
-- Interface totalmente responsiva  
+- Adição de novas tarefas
+- Edição do nome e da descrição
+- Alteração do status entre pendente, em progresso e concluída
+- Exclusão de tarefas com confirmação
+- Filtros por status
+- Modal para edição das tarefas
+- Notificações ao salvar alterações
+- Modo claro e escuro
+- Layout responsivo para desktop e dispositivos móveis
 
+---
 
+## Tecnologias utilizadas
 
-## Tecnologias Utilizadas
+<div align="center">
 
-- [React](https://reactjs.org/)  
-- [Redux Toolkit](https://redux-toolkit.js.org/)  
-- CSS Puro (sem frameworks de UI)  
-- HTML5  
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css&theme=dark"/>
 
+</div>
 
+<br>
 
-## Site Online
+Outras ferramentas e recursos utilizados no projeto:
 
-[Acesse a aplicação aqui](https://to-do-list-wine-eight-18.vercel.app)
+- **Redux Toolkit** para gerenciamento do estado
+- **CSS** para estilização e responsividade
+- **Toast notifications** para feedback das ações
+- **Vercel** para o deploy
 
+---
 
+## Demonstração
 
-## Como Executar o Projeto
+<div align="center">
 
-1. Clone este repositório:
+### Tela inicial
+
+<img
+  src="https://github.com/user-attachments/assets/9d0bfdfb-f609-48e9-8e05-e60e3ee18e88"
+  alt="Tela inicial da Lista de Tarefas"
+  width="900"
+/>
+
+<br><br>
+
+### Modo escuro no smartphone
+
+<img
+  src="https://github.com/user-attachments/assets/13290eb2-4296-49ad-9391-bac8e58b9676"
+  alt="Modo escuro da Lista de Tarefas em dispositivo móvel"
+  width="400"
+/>
+
+<br><br>
+
+### [Acessar projeto online](https://to-do-list-wine-eight-18.vercel.app)
+
+</div>
+
+---
+
+## Como executar
+
+Clone o repositório:
 
 ```bash
 git clone https://github.com/luizmouradc/To-do-list.git
 ```
 
-2. Instale as dependências:
+Entre na pasta do projeto:
+
+```bash
+cd To-do-list
+```
+
+Instale as dependências:
 
 ```bash
 npm install
 ```
 
-3. Execute o projeto em modo de desenvolvimento:
+Depois, execute:
 
 ```bash
 npm run dev
 ```
 
-4. Acesse no navegador:
+O endereço para acessar o projeto será exibido no terminal pelo Vite.
 
-```
-http://localhost:5173/
-```
+---
 
+<div align="center">
 
-## Screenshots
+Feito por <a href="https://github.com/luizmouradc">Luiz Inácio</a>
 
-### Tela Inicial (Desktop)
-
-![Image](https://github.com/user-attachments/assets/9d0bfdfb-f609-48e9-8e05-e60e3ee18e88)
-
-### Modo Dark (Smartphone)
-
-![Image](https://github.com/user-attachments/assets/13290eb2-4296-49ad-9391-bac8e58b9676)
-
-
-
+</div>
